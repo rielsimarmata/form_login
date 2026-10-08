@@ -1,7 +1,7 @@
-import KickToLogin from "./KickToLogin";
+import LaptopLogin from "./LaptopLogin";
 
 function App() {
-  return <KickToLogin />;
+  return <LaptopLogin />;
 }
 
 export default App;
